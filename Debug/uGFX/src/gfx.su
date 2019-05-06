@@ -1,0 +1,2 @@
+gfx.c:82:6:gfxInit	8	static
+gfx.c:140:6:gfxDeinit	8	static

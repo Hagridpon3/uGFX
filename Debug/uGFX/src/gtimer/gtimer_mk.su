@@ -1,0 +1,10 @@
+gtimer.c:32:8:GTimerThreadHandler	40	static,ignoring_inline_asm
+gtimer.c:115:6:_gtimerInit	8	static
+gtimer.c:122:6:_gtimerDeinit	8	static
+gtimer.c:129:6:gtimerInit	16	static
+gtimer.c:134:6:gtimerDeinit	16	static
+gtimer.c:139:6:gtimerStart	32	static
+gtimer.c:190:6:gtimerStop	16	static
+gtimer.c:208:7:gtimerIsActive	16	static
+gtimer.c:212:6:gtimerJab	16	static
+gtimer.c:223:6:gtimerJabI	16	static

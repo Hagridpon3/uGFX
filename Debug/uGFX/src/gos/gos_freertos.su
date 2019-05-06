@@ -1,0 +1,13 @@
+gos_freertos.c:33:6:_gosInit	4	static
+gos_freertos.c:51:6:_gosPostInit	4	static
+gos_freertos.c:62:6:_gosDeinit	4	static
+gos_freertos.c:69:7:gfxRealloc	32	static
+gos_freertos.c:88:6:gfxSleepMilliseconds	16	static
+gos_freertos.c:93:6:gfxSleepMicroseconds	16	static
+gos_freertos.c:101:6:gfxMutexInit	16	static
+gos_freertos.c:109:6:gfxSemInit	24	static
+gos_freertos.c:120:7:gfxSemWait	16	static
+gos_freertos.c:127:7:gfxSemWaitI	24	static
+gos_freertos.c:136:6:gfxSemSignal	16	static,ignoring_inline_asm
+gos_freertos.c:142:6:gfxSemSignalI	24	static
+gos_freertos.c:149:9:gfxThreadCreate	40	static

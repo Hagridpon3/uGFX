@@ -1,0 +1,8 @@
+gdriver.c:21:6:_gdriverInit	4	static
+gdriver.c:25:6:_gdriverDeinit	8	static
+gdriver.c:31:10:gdriverRegister	40	static
+gdriver.c:69:6:gdriverUnRegister	24	static
+gdriver.c:98:10:gdriverGetInstance	24	static
+gdriver.c:114:10:gdriverInstanceCount	24	static
+gdriver.c:127:10:gdriverGetNext	16	static
+gdriver.c:136:10:gdriverGetDriverInstanceNumber	24	static

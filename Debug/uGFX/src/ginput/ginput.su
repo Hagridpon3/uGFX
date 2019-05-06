@@ -1,0 +1,2 @@
+ginput.c:28:6:_ginputInit	8	static
+ginput.c:42:6:_ginputDeinit	8	static
